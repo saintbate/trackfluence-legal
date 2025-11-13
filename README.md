@@ -1,0 +1,1 @@
+# Trackfluence Legal\n\nStatic legal pages for Trackfluence, suitable for GitHub Pages.\n\n- `index.html` — links to all legal docs.\n- `privacy-policy.html` — Privacy Policy.\n- `terms.html` — Terms of Service.\n
